@@ -2,7 +2,7 @@
 - 👀 I’m interested in minecraft block game cheats
 - 🌱 I’m currently learning python and lua
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me discord or smth
+- 📫 How to reach me discord or smth Auxy#1747
 
 <!---
 Auxkabel1337/Auxkabel1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
