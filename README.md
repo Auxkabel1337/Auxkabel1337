@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Auxkabel1337
 - 👀 I’m interested in minecraft block game cheats
 - 🌱 I’m currently learning python and lua
-- 💞️ I’m looking to collaborate on idk
+- 💞️ I’m white and german
 - 📫 How to reach me discord or smth Auxy#1747
 
 <!---
