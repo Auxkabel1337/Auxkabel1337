@@ -1,11 +1,10 @@
-**PASTER SINCE 2019**
+# PASTER SINCE 2019
 
 
-- 👋 Hi, I’m @Auxkabel1337
-- 👀 I’m interested in minecraft block game cheats
-- 🌱 I’m currently learning python and lua
-- 💞️ I’m white and german
-- 📫 Reach me on discord Auxy#1747 (pls not)
+**-** Hi, Im Auxy
+**-** Im currently learning: Python, C++, C# & Lua (i hate this language)
+
+
 
 <!---
 Auxkabel1337/Auxkabel1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
