@@ -4,6 +4,7 @@
 ## - 💞️ I’m white and german
 ## - 📫 Reach me on discord Auxy#1747
 
+### > Chilling in retarded comms is not good 
 
 
 <!---
