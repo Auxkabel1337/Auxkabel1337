@@ -1,8 +1,8 @@
 # PASTER SINCE 2019
 
-
-**-** Hi, Im Auxy
-**-** Im currently learning: Python, C++, C# & Lua (i hate this language)
+🌱 I’m currently learning python, lua and c++
+💞️ I’m white and german
+📫 Reach me on discord Auxy#1747
 
 
 
