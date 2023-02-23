@@ -1,6 +1,6 @@
 # PASTER SINCE 2019
 
-## - 🌱 I’m currently nothing because i am a skid
+## - 🌱 I’m currently learning nothing because i am a skid
 ## - 💞️ I’m white and german
 ## - 📫 Reach me on discord Auxy#1747
 ## - 🤷‍♂️ I Paste Stuff
