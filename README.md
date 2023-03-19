@@ -3,9 +3,7 @@
 ## - 🌱 I’m currently learning nothing because i am a skid
 ## - 💞️ I’m white and german
 ## - 📫 Reach me on discord Auxy#1747 (pls not)
-## - 🤷‍♂️ I Paste Stuff
-## - 👏 Skid
-## - 😎 I Skid Fortnite Cheats
+## - 🤷‍♂️ I wanna eat you
 
 
 <!---
