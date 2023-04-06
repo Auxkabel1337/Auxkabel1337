@@ -1,4 +1,4 @@
-# PASTER SINCE 2019
+# PASTER SINCE 2018
 
 ## - 🌱 I’m currently learning nothing because i am mentally unstable
 ## - 💞️ I’m white and german
