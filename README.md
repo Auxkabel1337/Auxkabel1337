@@ -15,18 +15,32 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-      <img src="https://skillicons.dev/icons?i=c#" alt="c-sharp" />
-      <img src="https://skillicons.dev/icons?i=python" alt="python"/>
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
-      <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML "/>
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-      <img src="https://skillicons.dev/icons?i=swift" alt="Swift"/>
-      <img src="https://skillicons.dev/icons?i=rust" alt="rust"/>
-      <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby"/>
-      <img src="https://skillicons.dev/icons?i=go" alt="Go"/>
+    <img src="https://skillicons.dev/icons?i=c#" alt="C#" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+    <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" />
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+    <img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=scala" alt="Scala" />
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+    <img src="https://skillicons.dev/icons?i=perl" alt="Perl" />
+    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=shell" alt="Shell" />
+    <img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" />
+    <img src="https://skillicons.dev/icons?i=perl" alt="Perl" />
+    <!-- Add more icons for other programming languages you work with -->
   </a>
 </p>
+
 
 <details>
   <summary>
