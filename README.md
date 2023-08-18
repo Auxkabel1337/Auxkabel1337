@@ -1,12 +1,23 @@
-# PASTER SINCE 2018
-
-## - 🌱 I’m currently learning nothing because i am mentally unstable
-## - 💞️ I’m white and german
-## - 📫 Reach me on discord Auxy#1747 (pls not)
-## - 🤷‍♂️ I wanna eat you
-
-
-<!---
-Auxkabel1337/Auxkabel1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Auxy</h1>
+<h3 align="center">Big booty Goth girls are my passion</h3>
+<h4 align="center">The software I work with</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,idea,visualstudio" />
+  </a>
+</p>
+<h4 align="center">I can work with these languages</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,css,scss" />
+  </a>
+</p>
+<details>
+  <summary>
+    <h4 align="center">About me</h4>
+  </summary>
+  <p align="center">
+   <h5>I've been working in Java for over three years, I'm just finishing high school and I'm a big fan of chess (even though I'm terrible at it).<h5>
+    </a>
+  </p>
+</details>
