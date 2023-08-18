@@ -34,6 +34,7 @@
     <img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" />
     <img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" />
     <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
   </a>
 </p>
 
