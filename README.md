@@ -25,7 +25,6 @@
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
     <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" />
     <img src="https://skillicons.dev/icons?i=go" alt="Go" />
-    <img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" />
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
     <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=scala" alt="Scala" />
@@ -34,7 +33,6 @@
     <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
     <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
     <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=shell" alt="Shell" />
     <img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" />
     <img src="https://skillicons.dev/icons?i=perl" alt="Perl" />
     <!-- Add more icons for other programming languages you work with -->
