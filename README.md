@@ -31,8 +31,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
     <img src="https://skillicons.dev/icons?i=perl" alt="Perl" />
     <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
-    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" />
     <img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" />
     <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" />
