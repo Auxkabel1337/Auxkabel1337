@@ -36,6 +36,7 @@
     <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" />
     <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
     <img src="https://skillicons.dev/icons?i=svg" alt="svg" />
+    <img src="https://skillicons.dev/icons?i=ps" alt="ps" />
   </a>
 </p>
 
