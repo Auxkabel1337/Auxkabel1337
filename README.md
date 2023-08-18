@@ -23,7 +23,6 @@
       <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
       <img src="https://skillicons.dev/icons?i=swift" alt="Swift"/>
       <img src="https://skillicons.dev/icons?i=rust" alt="rust"/>
-      <img src="https://skillicons.dev/icons?i=c++" alt="C++"/>
       <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby"/>
       <img src="https://skillicons.dev/icons?i=go" alt="Go"/>
   </a>
