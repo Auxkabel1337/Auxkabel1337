@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Auxy</h1>
 <p align="center">
-  <img src="your-profile-image-url" alt="Profile Image" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/115661100?v=4" alt="Profile Image" width="200" />
 </p>
 <h3 align="center">Passionate about Software Development and Learning</h3>
 
