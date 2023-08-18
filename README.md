@@ -16,7 +16,18 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
       <img src="https://skillicons.dev/icons?i=c#" alt="c-sharp" />
-          <img src="https://skillicons.dev/icons?i=python" alt="python"/>
+      <img src="https://skillicons.dev/icons?i=python" alt="python"/>
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
+      <img src="https://skillicons.dev/icons?i=scratch" alt="Scratch"/>
+      <img src="https://skillicons.dev/icons?i=sql" alt="SQL"/>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML "/>
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+      <img src="https://skillicons.dev/icons?i=swift" alt="Swift"/>
+      <img src="https://skillicons.dev/icons?i=rust" alt="rust"/>
+      <img src="https://skillicons.dev/icons?i=c++" alt="C++"/>
+      <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby"/>
+      <img src="https://skillicons.dev/icons?i=go" alt="Go"/>
   </a>
 </p>
 
