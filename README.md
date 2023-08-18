@@ -35,7 +35,6 @@
     <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" />
     <img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" />
-    <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" />
     <!-- Add more icons for other programming languages you work with -->
   </a>
 </p>
