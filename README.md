@@ -4,14 +4,14 @@
 </p>
 <h3 align="center">Passionate about Software Development and Learning</h3>
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tools i use
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,visualstudio" alt="IDEs" />
   </a>
 </p>
 
-## 💻 Languages I Work With
+## 💻 Languages i know
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
