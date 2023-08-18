@@ -16,6 +16,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
       <img src="https://skillicons.dev/icons?i=c#" alt="c-sharp" />
+          <img src="https://skillicons.dev/icons?i=python" alt="python"/>
   </a>
 </p>
 
