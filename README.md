@@ -9,7 +9,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,visualstudio" alt="IDEs" />
   </a>
-  <!-- Add more icons for other tools/technologies you use -->
 </p>
 
 ## 💻 Languages I Work With
@@ -17,7 +16,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
-  <!-- Add more icons for other languages you work with -->
 </p>
 
 <details>
