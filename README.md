@@ -23,8 +23,7 @@
     <h4 align="center">About Me</h4>
   </summary>
   <p align="center">
-    Hey there! 👋 I'm Auxy, a passionate software developer who dosent love to explore new technologies and build amazing things. I dont a strong interest in solving complex problems and continuously enhancing my not existing skills. While I may be new to the coding scene and a absoloute noname, I'm autistic and dedicated to learning and growing every day.
-
+    Hey there! 👋 I'm Auxy, a passionate software developer who dosent love to explore new technologies and build amazing things. I dont have strong interest in solving complex problems and continuously enhancing my not existing skills. While I may be new to the coding scene and a absoloute noname, I'm autistic and not dedicated to learning and growing every day
    Let's connect and learn from each other! Please dont reach out.
   </p>
 </details>
