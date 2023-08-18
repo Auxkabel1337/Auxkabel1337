@@ -35,6 +35,7 @@
     <img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" />
     <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" />
     <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
+    <img src="https://skillicons.dev/icons?i=svg" alt="svg" />
   </a>
 </p>
 
