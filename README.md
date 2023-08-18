@@ -7,7 +7,7 @@
 ## 🛠️ Tools i use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,visualstudio,notepad" alt="IDEs" />
+    <img src="https://skillicons.dev/icons?i=idea,visualstudio" alt="IDEs" />
   </a>
 </p>
 
