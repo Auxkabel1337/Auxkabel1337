@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">Passionate about Software Development and Learning</h3>
 
-## 🛠️ Tools i use
+## 🛠️ IDE's i use
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,visualstudio,powershell,eclipse,linux,atom" alt="IDEs" />
