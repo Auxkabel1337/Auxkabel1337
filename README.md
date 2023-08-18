@@ -33,7 +33,6 @@
     <img src="https://skillicons.dev/icons?i=lua" alt="Lua" />
     <img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" />
     <img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" />
-    <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" />
     <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" />
   </a>
 </p>
