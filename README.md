@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/115661100?v=4" alt="Profile Image" width="200" />
 </p>
-<h3 align="center">Passionate about Software Development and Learning</h3>
+<h3 align="center">Proffesional Aux kabel</h3>
 
 ## 🛠️ IDE's i use
 <p align="center">
